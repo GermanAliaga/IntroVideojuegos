@@ -28,6 +28,7 @@
     {"name":"Platform3","order":8,"path":"sprites/Platform3/Platform3.yy",},
     {"name":"Slide","order":4,"path":"sprites/Slide/Slide.yy",},
     {"name":"Sprite11","order":10,"path":"sprites/Sprite11/Sprite11.yy",},
+    {"name":"Sprite12","order":11,"path":"sprites/Sprite12/Sprite12.yy",},
     {"name":"Trap","order":9,"path":"sprites/Trap/Trap.yy",},
     {"name":"Walk","order":1,"path":"sprites/Walk/Walk.yy",},
   ],

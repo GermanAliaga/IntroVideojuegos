@@ -49,6 +49,7 @@
     {"id":{"name":"Platform3","path":"sprites/Platform3/Platform3.yy",},},
     {"id":{"name":"Slide","path":"sprites/Slide/Slide.yy",},},
     {"id":{"name":"Sprite11","path":"sprites/Sprite11/Sprite11.yy",},},
+    {"id":{"name":"Sprite12","path":"sprites/Sprite12/Sprite12.yy",},},
     {"id":{"name":"Trap","path":"sprites/Trap/Trap.yy",},},
     {"id":{"name":"Walk","path":"sprites/Walk/Walk.yy",},},
   ],
