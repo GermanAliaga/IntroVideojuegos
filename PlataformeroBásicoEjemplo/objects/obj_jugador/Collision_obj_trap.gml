@@ -1,8 +1,7 @@
 if(vida >= 1)
 {
 	vida -= 1;
-	x = 120;
-	y = 530;
+	room_restart();
 }
 
 if(vida == 0)

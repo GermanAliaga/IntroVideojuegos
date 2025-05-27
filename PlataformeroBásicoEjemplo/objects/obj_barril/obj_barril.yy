@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_coleccionable",
+  "%Name":"obj_barril",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_jugador","path":"objects/obj_jugador/obj_jugador.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_coleccionable",
+  "name":"obj_barril",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Coleccionable",
-    "path":"sprites/Coleccionable/Coleccionable.yy",
+    "name":"Barril",
+    "path":"sprites/Barril/Barril.yy",
   },
   "spriteMaskId":null,
   "visible":true,

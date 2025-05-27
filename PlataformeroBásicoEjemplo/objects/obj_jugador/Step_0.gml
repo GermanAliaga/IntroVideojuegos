@@ -62,8 +62,9 @@ if(keyboard_check(vk_up) || keyboard_check(vk_space)) // SALTO
 /////////////////// VERIFICACION DE QUE NO EXISTEN MÁS OBJETOS EN LA ROOM
 if(instance_exists(obj_coleccionable) == false)
 {
-	show_message("Recolectaste los objetos");
-	room_restart();
+	//show_message("Recolectaste los objetos");
+	//room_restart();
+	obj_barril.visible = true;
 }
 
 
