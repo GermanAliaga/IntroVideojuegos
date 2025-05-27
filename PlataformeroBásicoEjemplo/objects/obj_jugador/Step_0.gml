@@ -3,7 +3,7 @@ velocidady = velocidady + gravedad;
 salto = 15;
 velocidad = 7;
 
-if(place_meeting(x, y+velocidady, obj_suelo)) // VERIFICACION DE QUE SE ESTÁ TOCANDO EL SUELO
+if(place_meeting(x, y+velocidady, obj_suelo) || place_meeting(x, y+velocidady, obj_plataforma)) // VERIFICACION DE QUE SE ESTÁ TOCANDO EL SUELO
 {
 	velocidady = 0;
 }
@@ -15,7 +15,7 @@ else
 
 if(keyboard_check(vk_left)) // MOVIMIENTO IZQUIERDA
 {
-	if(place_meeting(x-velocidad, y, obj_suelo))
+	if(place_meeting(x-velocidad, y, obj_plataforma))
 	{
 		velocidad = 0;
 	}
@@ -28,7 +28,7 @@ if(keyboard_check(vk_left)) // MOVIMIENTO IZQUIERDA
 }
 else if(keyboard_check(vk_right)) // MOVIMIENTO DERECHA
 {
-	if(place_meeting(x+velocidad, y, obj_suelo))
+	if(place_meeting(x+velocidad, y, obj_suelo) || place_meeting(x, y+velocidady, obj_plataforma))
 	{
 		velocidad = 0;
 	}
