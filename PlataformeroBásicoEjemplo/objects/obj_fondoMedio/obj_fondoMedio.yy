@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"FondoMedio",
-    "path":"sprites/FondoMedio/FondoMedio.yy",
+    "name":"Sprt_FondoMedio",
+    "path":"sprites/Sprt_FondoMedio/Sprt_FondoMedio.yy",
   },
   "spriteMaskId":null,
   "visible":true,

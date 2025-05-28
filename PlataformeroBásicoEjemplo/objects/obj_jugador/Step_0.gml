@@ -47,7 +47,7 @@ else // SIN MOVIMIENTO
 
 if(keyboard_check(vk_up) || keyboard_check(vk_space)) // SALTO
 {
-	if(!place_meeting(x, y-velocidady, obj_suelo))
+	if(!place_meeting(x, y-velocidady, obj_plataforma))
 	{
 		y -= salto;
 	}

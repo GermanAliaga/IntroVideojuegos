@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"FondoLejano",
-    "path":"sprites/FondoLejano/FondoLejano.yy",
+    "name":"Sprt_FondoLejano",
+    "path":"sprites/Sprt_FondoLejano/Sprt_FondoLejano.yy",
   },
   "spriteMaskId":null,
   "visible":true,

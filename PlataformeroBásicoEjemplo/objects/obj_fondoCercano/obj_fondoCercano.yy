@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"FondoCercano",
-    "path":"sprites/FondoCercano/FondoCercano.yy",
+    "name":"Sprt_FondoCercano",
+    "path":"sprites/Sprt_FondoCercano/Sprt_FondoCercano.yy",
   },
   "spriteMaskId":null,
   "visible":true,
