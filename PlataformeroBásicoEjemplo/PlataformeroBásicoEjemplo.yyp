@@ -51,7 +51,6 @@
     {"id":{"name":"obj_trap","path":"objects/obj_trap/obj_trap.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Victoria","path":"rooms/Victoria/Victoria.yy",},},
-    {"id":{"name":"RoomUI","path":"roomui/RoomUI/RoomUI.yy",},},
     {"id":{"name":"Barril","path":"sprites/Barril/Barril.yy",},},
     {"id":{"name":"BotonPausa","path":"sprites/BotonPausa/BotonPausa.yy",},},
     {"id":{"name":"Coleccionable","path":"sprites/Coleccionable/Coleccionable.yy",},},

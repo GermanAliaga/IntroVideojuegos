@@ -28,7 +28,6 @@
     {"name":"obj_suelo","order":2,"path":"objects/obj_suelo/obj_suelo.yy",},
     {"name":"obj_trap","order":3,"path":"objects/obj_trap/obj_trap.yy",},
     {"name":"Victoria","order":1,"path":"rooms/Victoria/Victoria.yy",},
-    {"name":"RoomUI","order":16,"path":"roomui/RoomUI/RoomUI.yy",},
     {"name":"Barril","order":14,"path":"sprites/Barril/Barril.yy",},
     {"name":"BotonPausa","order":12,"path":"sprites/BotonPausa/BotonPausa.yy",},
     {"name":"Coleccionable","order":10,"path":"sprites/Coleccionable/Coleccionable.yy",},
